@@ -106,8 +106,8 @@ else if(stat == 0)
 #include "ESPAsyncWebServer.h"
 #include "ESPAsyncTCP.h"
 #include <Arduino_JSON.h>
-const char *ssid = "TIM-37665000";
-const char *password = "sipavavekimie";
+const char *ssid = "xxxxxxxxxzz";
+const char *password = "xxzxzxxxxxxx";
 float ardu1;
 int ardu2;
 unsigned long previousMillis = 0;
