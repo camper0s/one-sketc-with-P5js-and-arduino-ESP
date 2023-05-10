@@ -14,7 +14,7 @@
 
     change to your SSID and password
 
-    upload the "p5js_wifi4.ino" file to esp8266
+    upload the "ESP_with_P5js_WiFi.ino" file to esp8266
 
     watch serial monitor the IP
 
@@ -22,6 +22,8 @@
 
     Enjoy
 
---P5js to arduino: click inside the circle, the LED turns on, click outside the circle, the LED turns off
---arduino to P5js: see on the monitor that the values change
---meanwhile P5js works
+-P5js to arduino: click inside the circle, the LED turns on, click outside the circle, the LED turns off
+
+-arduino to P5js: see on the monitor that the values change
+
+-meanwhile P5js works
